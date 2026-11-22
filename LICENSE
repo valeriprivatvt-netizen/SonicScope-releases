@@ -1,0 +1,72 @@
+Copyright (c) 2026 V.Trinz. All rights reserved.
+
+This license covers "Audio Restoration Toolbox" and "SonicScope" (its
+player and converter edition) as distributed by the copyright holder in
+compiled form (the "Software"), as far as the Software is the copyright
+holder's own work. The open-source components bundled with the Software
+remain under their own licenses - see section 4.
+
+1. Use
+
+   The Software is provided free of charge for personal, non-commercial
+   use. You may install and use it at no cost.
+
+2. Passing on SonicScope
+
+   You may give copies of SonicScope to others, free of charge, provided
+   the copy is complete and unmodified: the whole program folder, or the
+   original archive or installer, exactly as distributed by the copyright
+   holder - including this file, THIRD_PARTY_NOTICES.md and the "licenses"
+   folder. Audio Restoration Toolbox may be passed on only with prior
+   written permission from the copyright holder.
+
+3. Restrictions
+
+   Except as section 2 or section 4 allows, you may not, without prior
+   written permission from the copyright holder:
+     - Sell the Software, charge for access to it, or bundle it into a paid
+       product or service.
+     - Distribute modified copies of the Software.
+     - Decompile, reverse-engineer, or create derivative works from the
+       copyright holder's own code, except to the extent applicable law
+       expressly permits despite this restriction.
+   No license to the source code of the copyright holder's own code is
+   granted.
+
+4. Open-source components
+
+   The Software bundles open-source components, each under its own license
+   - listed in THIRD_PARTY_NOTICES.md, with the license texts in the
+   "licenses" folder. Nothing in this license limits the rights those
+   licenses give you.
+
+   In particular, some of these components are licensed under the GNU
+   Lesser General Public License (LGPL): Qt, PySide6 and shiboken6
+   (LGPL-3.0), and libsndfile with mpg123 and LAME, libsoxr and
+   python-soxr (LGPL-2.1). For these you may, notwithstanding section 3:
+     - modify them, replace the library files shipped with the Software by
+       modified or other compatible versions, and use the Software with
+       them, and
+     - reverse-engineer the Software to the extent necessary to debug such
+       modifications,
+   as section 4 of the LGPL-3.0 and section 6 of the LGPL-2.1 provide.
+   Where to obtain the source code of these components is stated in
+   THIRD_PARTY_NOTICES.md.
+
+5. No warranty
+
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE, INCLUDING LOSS OR CORRUPTION OF AUDIO DATA. See
+   README.md's Disclaimer section for further detail.
+
+   The above applies to the extent permitted by applicable law. It does not
+   exclude or limit liability for intent or gross negligence, for defects
+   concealed fraudulently, for injury to life, body or health, or under
+   mandatory product liability law. As the Software is given free of
+   charge, under German law the copyright holder is in any case liable only
+   to that extent (sections 521, 523 and 524 of the German Civil Code, BGB).
