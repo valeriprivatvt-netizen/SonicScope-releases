@@ -2,6 +2,8 @@
 
 A free hi-res audio player for Windows and Linux, with tools for your music collection.
 
+![SonicScope](image/SonicScope.jpg "SonicScope")
+
 **[⬇ Download the latest version](../../releases/latest)**
 
 *Deutsch und Русский: see below.*
